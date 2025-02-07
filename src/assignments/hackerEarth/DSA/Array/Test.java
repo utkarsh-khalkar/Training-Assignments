@@ -23,7 +23,7 @@ public class Test {
         list.add(1);
         list.add(2);
         list.add(3);
-        list =new ArrayList();
+        //list =new ArrayList();
         System.out.println(list);
 
         t.addTwoNumber(list);

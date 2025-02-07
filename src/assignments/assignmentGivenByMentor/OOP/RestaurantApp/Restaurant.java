@@ -1,4 +1,4 @@
-package assignments.assignmentGivenByMentor.OOP;
+package assignments.assignmentGivenByMentor.OOP.RestaurantApp;
 
 import java.util.ArrayList;
 import java.util.Scanner;
